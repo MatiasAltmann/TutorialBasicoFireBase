@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "717809751193",
+    "project_id": "mati2023firebase",
+    "storage_bucket": "mati2023firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717809751193:android:99388a804b49fce587d408",
+        "android_client_info": {
+          "package_name": "ar.edu.ort.tp3.firebasetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717809751193-h37aoii4k6bvf5v8in79p010kefni2ea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ar.edu.ort.tp3.firebasetutorial",
+            "certificate_hash": "f124bcb5038c50ed898f7be11544073c5b00127e"
+          }
+        },
+        {
+          "client_id": "717809751193-ls7fshkrcqhimo3hgqgp2lfhj8mtkhrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6iOr_coG8347YqJUeTSJzuL9GuQM2_40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717809751193-ls7fshkrcqhimo3hgqgp2lfhj8mtkhrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

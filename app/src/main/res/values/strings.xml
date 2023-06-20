@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FireBaseTutorial</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mail">Correo electrónico</string>
+    <string name="pass">Contraseña</string>
+    <string name="nuevoUsuario">¿Usuario nuevo?</string>
+    <string name="nuevaCuenta">Crear cuenta</string>
+    <string name="titleRegistro">Crear nueva cuenta</string>
+    <string name="passRepetida">Repetir contraseña</string>
+    <string name="olvideClaves">Recuperar clave</string>
+</resources>
